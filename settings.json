@@ -1,18 +1,18 @@
 {
-  "name": "AFK Bot",
+  "name": "cube",
   "bot-account": {
     "username": "Slobot00",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "slobtest1.aternos.me",
-    "port": 27586,
-    "version": "",
+    "ip": "aWVU.aternos.me",
+    "port": 29726,
+    "version": "26.1.2",
     "try-creative": false
   },
   "position": {
-    "enabled": true,
+    "enabled": false,
     "x": 0,
     "y": 100,
     "z": 0
@@ -20,15 +20,15 @@
   "utils": {
     "auto-auth": {
       "enabled": true,
-      "password": "chalol78"
+      "password": "okak228"
     },
     "anti-afk": {
       "enabled": true,
       "sneak": true
     },
     "chat-messages": {
-      "enabled": true,
-      "repeat": true,
+      "enabled": false,
+      "repeat": false,
       "repeat-delay": 120,
       "messages": [
         "I'm a regular player",
